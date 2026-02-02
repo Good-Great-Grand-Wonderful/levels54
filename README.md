@@ -46,4 +46,4 @@ Control without compromise.
 - Brass Heat Set Inserts
 
 ### Default Firmware Keymap
-![Keymap](keymap-drawer/levels54.svg)
+![Keymap](keymap-drawer/levels.svg)
